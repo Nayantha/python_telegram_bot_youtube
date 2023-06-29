@@ -15,3 +15,8 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("youtube downloader")
 
 # Handle Responses
+def handle_response(text: str) -> str:
+    processed : str = text.lower()
+    # CODE
+    return "test"
+
