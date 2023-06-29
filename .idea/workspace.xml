@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce0e2d1-beac-43a0-ae85-e20eb1e49608" name="Changes" comment="">
+    <list default="true" id="4ce0e2d1-beac-43a0-ae85-e20eb1e49608" name="Changes" comment="add variables to catch and store environmental variables.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +77,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688008545474</updated>
-      <workItem from="1688008598130" duration="1475000" />
+      <workItem from="1688008598130" duration="2761000" />
     </task>
+    <task id="LOCAL-00001" summary="pycharm updated files.">
+      <created>1688010293515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688010293515</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pycharm updated files.">
+      <created>1688010367561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688010367561</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pycharm updated files.">
+      <created>1688010375289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688010375289</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add variables to catch and store environmental variables.">
+      <created>1688010413648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688010413648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pycharm updated files." />
+    <MESSAGE value="add variables to catch and store environmental variables." />
+    <option name="LAST_COMMIT_MESSAGE" value="add variables to catch and store environmental variables." />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_telegram_bot_youtube$main.coverage" NAME="main Coverage Results" MODIFIED="1688009923993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_telegram_bot_youtube$main.coverage" NAME="main Coverage Results" MODIFIED="1688011427768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
